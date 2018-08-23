@@ -1,0 +1,135 @@
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe.config
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.exe
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.pdb
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.pdb
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WPFToolkit.Extended.dll
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.xml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.baml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.baml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.baml
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.g.cs
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.g.cs
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.g.cs
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\App.g.cs
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera_MarkupCompile.cache
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.g.resources
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.Properties.Resources.resources
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Documents\Elektronika\C#\Projects\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe.config
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.exe
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.pdb
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.pdb
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.xml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csprojResolveAssemblyReference.cache
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.baml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.baml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.baml
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.g.cs
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.g.cs
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.g.cs
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\App.g.cs
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.g.resources
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Downloads\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe.config
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.exe
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.pdb
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.pdb
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.xml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.baml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.baml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.baml
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.g.cs
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.g.cs
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.g.cs
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\App.g.cs
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.g.resources
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Users\Dell\Desktop\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csproj.GenerateResource.Cache
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe.config
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.exe
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.pdb
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.pdb
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.xml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csprojResolveAssemblyReference.cache
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.baml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.baml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.baml
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.g.cs
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.g.cs
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.g.cs
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\App.g.cs
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera_MarkupCompile.cache
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.g.resources
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.Properties.Resources.resources
+K:\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csproj.GenerateResource.Cache
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe.config
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.exe
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.pdb
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.exe
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\WpfPortOfTestingCamera.pdb
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Controls.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Imaging.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Math.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\AForge.Vision.xml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\bin\Release\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csprojResolveAssemblyReference.cache
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.baml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.baml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.baml
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\InputSelection.g.cs
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\MainWindow.g.cs
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\VideoSettings.g.cs
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\App.g.cs
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.g.resources
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Users\petra\Desktop\motion original\WpfPortOfTestingCamera\WpfPortOfTestingCamera\WpfPortOfTestingCamera\obj\x86\Release\GreenLightTracking.csproj.GenerateResource.Cache

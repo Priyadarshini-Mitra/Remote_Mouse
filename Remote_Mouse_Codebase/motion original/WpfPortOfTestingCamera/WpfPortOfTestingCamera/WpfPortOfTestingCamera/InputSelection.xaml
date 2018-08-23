@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfPortOfTestingCamera.InputSelection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InputSelection" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" ShowInTaskbar="False" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" SizeToContent="WidthAndHeight" d:DesignWidth="280" d:DesignHeight="206" SnapsToDevicePixels="True">
+
+        <StackPanel HorizontalAlignment="Center" Name="stackPanel1" VerticalAlignment="Top" Margin="10" MaxWidth="500">
+            <GroupBox Header="Select Camera" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <ComboBox Height="23" Name="comboBox1" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="120" />
+            </GroupBox>
+            <Button Content="OK" Name="ButtonOK" IsDefault="True" Click="ButtonOK_Click" />
+        </StackPanel>
+</Window>

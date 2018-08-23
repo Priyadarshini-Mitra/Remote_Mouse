@@ -1,0 +1,48 @@
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\motion.exe.config
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.exe
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.pdb
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\motion.exe.manifest
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\motion.application
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\motion.exe
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\motion.pdb
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\AForge.Imaging.dll
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\AForge.Math.dll
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\dshow.dll
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\Tiger.Video.VFW.dll
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\dshow.pdb
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\bin\Debug\Tiger.Video.VFW.pdb
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.AboutForm.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.CameraWindow.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.CaptureDeviceForm.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.MainForm.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.MMSForm.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.URLForm.resources
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.csproj.GenerateResource.Cache
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.TrustInfo.xml
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.exe.manifest
+F:\Visual Studio 2005-Projects\SmoothLaserTracking\motion\obj\Debug\motion.application
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\motion.exe.config
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.exe
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.pdb
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\motion.exe.manifest
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\motion.application
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\motion.exe
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\motion.pdb
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\AForge.Imaging.dll
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\dshow.dll
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\Tiger.Video.VFW.dll
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\dshow.pdb
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\bin\Debug\Tiger.Video.VFW.pdb
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.AboutForm.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.CameraWindow.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.CaptureDeviceForm.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.MainForm.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.MMSForm.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.URLForm.resources
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.TrustInfo.xml
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.exe.manifest
+C:\Documents and Settings\Ashish Derhgawen\Desktop\Article\LaserTracking\motion\obj\Debug\motion.application

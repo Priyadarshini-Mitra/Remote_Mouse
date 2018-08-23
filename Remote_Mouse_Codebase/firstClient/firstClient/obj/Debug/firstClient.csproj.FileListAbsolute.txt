@@ -1,0 +1,29 @@
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\bin\Debug\CerebroClient.exe.config
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\bin\Debug\CerebroClient.exe
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\bin\Debug\CerebroClient.pdb
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\bin\Debug\CommStructure.dll
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\bin\Debug\CommStructure.pdb
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\firstClient.Client.resources
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\CerebroClient.Properties.Resources.resources
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\CerebroClient.SetServerForm.resources
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\firstClient.csproj.GenerateResource.Cache
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\CerebroClient.exe
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\CerebroClient.pdb
+I:\Users\Debdipto Ghoshal\documents\visual studio 2012\Projects\firstClient\firstClient\obj\Debug\firstClient.csprojResolveAssemblyReference.cache
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\CerebroClient.exe.config
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\CerebroClient.exe
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\CerebroClient.pdb
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\CerebroClient.exe
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\CerebroClient.pdb
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\mscorlib.dll
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\CommStructure.pdb
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\normidna.nlp
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\normnfc.nlp
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\normnfd.nlp
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\normnfkc.nlp
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\bin\Debug\normnfkd.nlp
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\firstClient.csprojResolveAssemblyReference.cache
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\firstClient.Client.resources
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\CerebroClient.Properties.Resources.resources
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\CerebroClient.SetServerForm.resources
+C:\Users\petra\Dropbox\Shared files\firstClient\firstClient\obj\Debug\firstClient.csproj.GenerateResource.Cache

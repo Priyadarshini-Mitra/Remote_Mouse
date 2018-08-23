@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfPortOfTestingCamera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" ResizeMode="NoResize" d:DesignHeight="343" d:DesignWidth="546" SizeToContent="WidthAndHeight" SnapsToDevicePixels="True">
+    <DockPanel Name="dockPanel1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="15">
+        <GroupBox Header="WebCam" Name="groupBox1" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Grid>
+                <Image HorizontalAlignment="Left" Margin="0" Name="pictureBoxMain" Stretch="Fill" VerticalAlignment="Top" MinHeight="240" MinWidth="320" StretchDirection="DownOnly" MaxWidth="960" MaxHeight="1200" />
+            </Grid>
+        </GroupBox>
+        <StackPanel HorizontalAlignment="Right" Name="stackPanel2" VerticalAlignment="Top" DockPanel.Dock="Right" Margin="15,0,0,0">
+            <GroupBox Header="Controls" Name="groupBox2">
+                <StackPanel Name="stackPanel1">
+                    <Button Content="Start" Height="23" Name="buttonStartStop" Width="120" Margin="0" Click="buttonStartStop_Click" />
+                    <Button Content="Video Properties" Height="23" Name="buttonVideoProperties" Width="120" Margin="0" Click="buttonVideoProperties_Click" />
+                    <Button Content="WebCam Settings" Height="23" Name="buttonWebCamSettings" Width="120" Margin="0" Click="buttonWebCamSettings_Click" />
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Target Coordinates" Name="groupBox3">
+                <StackPanel>
+                    <Label Content="X: 0" Name="labelX" />
+                    <Label Content="Y: 0" Name="labelY" />
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+    </DockPanel>
+</Window>
